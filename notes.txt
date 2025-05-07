@@ -1,0 +1,36 @@
+1. client side scripting
+    - ketika membuat website dengan html css dan javascript itu disebut client side scripting karena pemrosesannya terjadi di sisi client/di komputer user masing-masing(browser).
+
+2. server side scripting
+    - saat website dibuat dengan bahasa pemrograman (contohnya php), web tsb mengirimkan sebuah request ke server ketika website tersebut dibuka. 
+    - web server: apache, nginx, dll
+    - web server mengelola request, karena prosesnya tidak hanya terjadi di sisi client, tetapi juga di sisi server.
+    - bahasa: PHP, RUBY, PYTHON, ASP
+    - ketika di dalam website hanya ada html, css, js: web browser akan langsung mengeksekusi script" tsb. 
+    - ketika di dalam server terdapat sintaks php: server php yang mengeksekusi script-nya lalu dikembalikan lagi ke sebagai html -> client
+    - script" bahasa pemrograman (cont: php) dapat terhubung ke database. sehingga dinamis. menampilkan request sesuai dengan yg ada di database.
+
+3. persiapan lingkungan pengembangan
+    - cara 1: instal web server (apache), instal bahasa pemrograman (PHP), instal database (mysql). dikonfigurasi satu per satu
+    - cara 2: All in one packages: WAMP, MAMP, LAMP, XAMPP
+
+4. menjalankan server:
+    - module: apache, mysql
+    - klik start
+    - server berhasil dijalankan
+    - jika merah/error, berarti port sudah terpakai program lain, port default: 80 443
+
+5. test server:
+    - buka browser -> localhost
+    - localhost == path/to/xampp/htdocs/
+
+6. function
+    - merupakan sebuah sub program (program berbentuk sintaks) yang dapat dipanggil di bagian lain pada program
+    - disebut juga sebagai prosedur (kumpulan statement untuk melakukan tugas tertentu) 
+    - kenapa function? : reusability (DRY: Do not Reapeat Yourself), modularity
+
+
+
+
+
+

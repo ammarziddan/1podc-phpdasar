@@ -1,0 +1,23 @@
+- Client side scripting
+- Server side scripting
+- Sintaks dasar php {
+    - standard output
+    - penulisan sintaks php (php dalam html/html dalam php)
+    - variabel & tipe data
+    - operator aritmatika (+ - / * %)
+    - concatination
+    - assignment (=, +=, -=, *=, /=, %=, .=)
+    - perbandingan (==, !=, >, <, >=, <=)
+    - identitas (===, !==)
+    - Logika (&&, ||, !)
+
+    - pengulangan (for, while)
+    - pengkondisian (if, else if, else, ternary)
+}
+- Function {
+    - built-in Function
+    - user-defined Function
+}
+- Array {
+    - 
+}
