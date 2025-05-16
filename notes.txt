@@ -28,6 +28,7 @@
     - merupakan sebuah sub program (program berbentuk sintaks) yang dapat dipanggil di bagian lain pada program
     - disebut juga sebagai prosedur (kumpulan statement untuk melakukan tugas tertentu) 
     - kenapa function? : reusability (DRY: Do not Reapeat Yourself), modularity
+    - struktur function: keyword function, function bisa memiliki parameter bisa tidak (jika memiliki parameter, boleh lebih dari satu), memiliki function body
 
 
 
