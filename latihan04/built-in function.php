@@ -1,5 +1,8 @@
 <?php
-// FUNCTION
+// FUNCTION - built-in function & user-defined function
+// BUILT IN FUNCTION
+
+// pemanggilan function: namafunction(arg1, arg2, ...) -> argument: opsional, dipisahkan koma
 
 // Utility
 // print()
